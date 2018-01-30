@@ -1,0 +1,8 @@
+c:\users\vadym\documents\visual studio 2010\Projects\market\market\bin\Debug\market.exe
+c:\users\vadym\documents\visual studio 2010\Projects\market\market\bin\Debug\market.pdb
+c:\users\vadym\documents\visual studio 2010\Projects\market\market\obj\x86\Debug\market.Form1.resources
+c:\users\vadym\documents\visual studio 2010\Projects\market\market\obj\x86\Debug\market.Properties.Resources.resources
+c:\users\vadym\documents\visual studio 2010\Projects\market\market\obj\x86\Debug\market.csproj.GenerateResource.Cache
+c:\users\vadym\documents\visual studio 2010\Projects\market\market\obj\x86\Debug\market.exe
+c:\users\vadym\documents\visual studio 2010\Projects\market\market\obj\x86\Debug\market.pdb
+C:\Users\Vadym\documents\visual studio 2010\Projects\market\market\obj\x86\Debug\market.csprojResolveAssemblyReference.cache
